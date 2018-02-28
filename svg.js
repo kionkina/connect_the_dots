@@ -31,3 +31,4 @@ var create_dot = function(e){
 }
 
 pic.addEventListener("click", create_dot);
+beep.addEventListener("click", function() {});
